@@ -1,0 +1,8 @@
+{
+  "extends": "@shgk/vue-course-taskbook/configs/tsconfig.json",
+  "include": ["env.d.ts", "**/*", "**/*.vue"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "allowJs": true,
+  }
+}
