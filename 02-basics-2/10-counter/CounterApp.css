@@ -1,0 +1,10 @@
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.count {
+  font-size: 20px;
+  font-weight: bold;
+}

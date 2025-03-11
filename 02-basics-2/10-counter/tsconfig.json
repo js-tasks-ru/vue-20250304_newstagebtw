@@ -1,0 +1,11 @@
+{
+  "extends": "@shgk/vue-course-taskbook/configs/tsconfig.json",
+  "include": ["**/*", "**/*.vue"],
+  "files": [],
+  "compilerOptions": {
+    "outDir": "dist",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
