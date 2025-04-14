@@ -6,6 +6,5 @@ const customConfig = defineConfig({
 })
 
 export default createTaskbookViteConfig({
-  taskbookDir: __dirname,
   customConfig,
 })
